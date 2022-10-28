@@ -42,7 +42,7 @@ alveychain server --chain genesis.json --dev --log-level debug
 Now that the client is up and running in dev mode, using the genesis file generated in **step 1**, we can use a tool like 
 **curl** to query the account balance:
 ````bash
-curl -X POST --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x1010101010101010101010101010101010101010", "latest"],"id":1}' https://rpc-testnet.alveychain.dog
+curl -X POST --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x1010101010101010101010101010101010101010", "latest"],"id":1}' https://rpc-testnet.alveychain.com
 ````
 
 The command should return the following output:

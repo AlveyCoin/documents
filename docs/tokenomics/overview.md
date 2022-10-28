@@ -9,7 +9,7 @@ sidebar_label: Overview
 * Total supply: `1,000,000,000,000`
 
 * `$ALV` token address:
-    * On Alveychain: [0x7B4328c127B85369D9f82ca0503B000D09CF9180](https://explorer.alveychain.dog/address/0x7B4328c127B85369D9f82ca0503B000D09CF9180)
+    * On Alveychain: [0x7B4328c127B85369D9f82ca0503B000D09CF9180](https://explorer.alveychain.com/address/0x7B4328c127B85369D9f82ca0503B000D09CF9180)
     * On Ethereum: [0x7B4328c127B85369D9f82ca0503B000D09CF9180](https://etherscan.io/address/0x7B4328c127B85369D9f82ca0503B000D09CF9180)
 
 

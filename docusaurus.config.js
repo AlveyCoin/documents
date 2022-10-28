@@ -3,7 +3,7 @@ require('dotenv').config()
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
     title: 'Alveychain',
-    url: 'https://docs.alveychain.dog',
+    url: 'https://docs.alveychain.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',

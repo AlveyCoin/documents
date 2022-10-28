@@ -5,24 +5,24 @@ sidebar_label: Overview
 ---
 
 ## Testnet
-* Explorer: https://explorer-testnet.alveychain.dog
+* Explorer: https://explorer-testnet.alveychain.com
 * ChainID:  568
-* Faucet:  https://faucet.alveychain.dog
+* Faucet:  https://faucet.alveychain.com
 * RPC Endpoints:
-    * https://rpc-testnet.alveychain.dog
+    * https://rpc-testnet.alveychain.com
 
 ## Mainnet
-* Explorer: https://explorer.alveychain.dog
+* Explorer: https://explorer.alveychain.com
 * ChainID: 2000
-* Bridge: https://bridge.alveychain.dog
+* Bridge: https://bridge.alveychain.com
 * RPC Endpoints:
-    * https://rpc01.alveychain.dog
-    * https://rpc-sg.alveychain.dog
-    * https://rpc-us.alveychain.dog
-    * https://rpc.alveychain.dog
-    * https://rpc01-sg.alveychain.dog
-    * https://rpc02-sg.alveychain.dog
-    * https://rpc03-sg.alveychain.dog
+    * https://rpc01.alveychain.com
+    * https://rpc-sg.alveychain.com
+    * https://rpc-us.alveychain.com
+    * https://rpc.alveychain.com
+    * https://rpc01-sg.alveychain.com
+    * https://rpc02-sg.alveychain.com
+    * https://rpc03-sg.alveychain.com
 * Ankr RPC Endpoints:
     * https://alveychain.ankr.com
     * https://alveychain-sj.ankr.com
