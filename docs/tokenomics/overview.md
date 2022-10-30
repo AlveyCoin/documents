@@ -2,7 +2,7 @@
 
 ## Allocation at a glance
 
-* Total supply: `1,000,000,000,000`
+* Total supply: `160.000.000 ALV`
 * `$ALV` token address:
   * On Alveychain: 0x000
   * On Ethereum: 0x000
