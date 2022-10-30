@@ -9,7 +9,7 @@ sidebar_label: Overview
 ### Testnet
 
 * Explorer: https://explorer-testnet.alveychain.com
-* ChainID: 3777
+* ChainID: Comming Soon!
 * Faucet: https://faucet.alveychain.com
 * RPC Endpoints:
   * https://rpc-testnet.alveychain.com
