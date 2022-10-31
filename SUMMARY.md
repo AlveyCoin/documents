@@ -69,4 +69,3 @@
 * [Server Config File](docs/sample-config.md)
 * [how-tos](docs/how-tos/README.md)
   * [How to set up and use Proof of Stake (PoS)](docs/how-tos/howto-stake-unstake.md)
-* [Tokenomics](docs/tokenomics/overview.md)
